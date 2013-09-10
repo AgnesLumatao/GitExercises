@@ -1,1 +1,21 @@
+<<<<<<< HEAD
 Try to edit
+=======
+AGNES
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LUMATAO
+>>>>>>> 12c6918874ef6acedb85524e7efdd0a2440827b8
